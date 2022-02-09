@@ -1,0 +1,155 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!319 &31900000
+AvatarMask:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: CharacterPedals
+  m_Mask: 00000000000000000000000001000000010000000000000000000000000000000000000001000000010000000000000000000000
+  m_Elements:
+  - m_Path: 
+    m_Weight: 1
+  - m_Path: Character rig
+    m_Weight: 1
+  - m_Path: Character rig/arm_IK_L
+    m_Weight: 1
+  - m_Path: Character rig/arm_IK_L/arm_pole_L
+    m_Weight: 1
+  - m_Path: Character rig/arm_IK_R
+    m_Weight: 1
+  - m_Path: Character rig/arm_IK_R/arm_pole_R
+    m_Weight: 1
+  - m_Path: Character rig/footControl_L
+    m_Weight: 1
+  - m_Path: Character rig/footControl_L/footRoll_L
+    m_Weight: 1
+  - m_Path: Character rig/footControl_L/heelRoll_L
+    m_Weight: 1
+  - m_Path: Character rig/footControl_L/heelRoll_L/toeRoll_L
+    m_Weight: 1
+  - m_Path: Character rig/footControl_L/heelRoll_L/toeRoll_L/footIK_L
+    m_Weight: 1
+  - m_Path: Character rig/footControl_L/kneepole_L
+    m_Weight: 1
+  - m_Path: Character rig/footControl_R
+    m_Weight: 1
+  - m_Path: Character rig/footControl_R/footRoll_R
+    m_Weight: 1
+  - m_Path: Character rig/footControl_R/heelRoll_R
+    m_Weight: 1
+  - m_Path: Character rig/footControl_R/heelRoll_R/toeRoll_R
+    m_Weight: 1
+  - m_Path: Character rig/footControl_R/heelRoll_R/toeRoll_R/footIK_R
+    m_Weight: 1
+  - m_Path: Character rig/footControl_R/kneepole_R
+    m_Weight: 1
+  - m_Path: Character rig/root
+    m_Weight: 1
+  - m_Path: Character rig/root/hipsCtrl
+    m_Weight: 1
+  - m_Path: Character rig/root/hipsCtrl/hips
+    m_Weight: 1
+  - m_Path: Character rig/root/hipsCtrl/hips/spine
+    m_Weight: 1
+  - m_Path: Character rig/root/hipsCtrl/hips/spine/chest
+    m_Weight: 1
+  - m_Path: Character rig/root/hipsCtrl/hips/spine/chest/clavicle_L
+    m_Weight: 1
+  - m_Path: Character rig/root/hipsCtrl/hips/spine/chest/clavicle_L/upperarm_L
+    m_Weight: 1
+  - m_Path: Character rig/root/hipsCtrl/hips/spine/chest/clavicle_L/upperarm_L/forearm_L
+    m_Weight: 1
+  - m_Path: Character rig/root/hipsCtrl/hips/spine/chest/clavicle_L/upperarm_L/forearm_L/wrist_L
+    m_Weight: 1
+  - m_Path: Character rig/root/hipsCtrl/hips/spine/chest/clavicle_L/upperarm_L/forearm_L/wrist_L/index_curl_L
+    m_Weight: 1
+  - m_Path: Character rig/root/hipsCtrl/hips/spine/chest/clavicle_L/upperarm_L/forearm_L/wrist_L/index_L
+    m_Weight: 1
+  - m_Path: Character rig/root/hipsCtrl/hips/spine/chest/clavicle_L/upperarm_L/forearm_L/wrist_L/index_L/index_L.001
+    m_Weight: 1
+  - m_Path: Character rig/root/hipsCtrl/hips/spine/chest/clavicle_L/upperarm_L/forearm_L/wrist_L/index_L/index_L.001/index_L.002
+    m_Weight: 1
+  - m_Path: Character rig/root/hipsCtrl/hips/spine/chest/clavicle_L/upperarm_L/forearm_L/wrist_L/middle_curl_L
+    m_Weight: 1
+  - m_Path: Character rig/root/hipsCtrl/hips/spine/chest/clavicle_L/upperarm_L/forearm_L/wrist_L/middle_L
+    m_Weight: 1
+  - m_Path: Character rig/root/hipsCtrl/hips/spine/chest/clavicle_L/upperarm_L/forearm_L/wrist_L/middle_L/middle_L.001
+    m_Weight: 1
+  - m_Path: Character rig/root/hipsCtrl/hips/spine/chest/clavicle_L/upperarm_L/forearm_L/wrist_L/middle_L/middle_L.001/middle_L.002
+    m_Weight: 1
+  - m_Path: Character rig/root/hipsCtrl/hips/spine/chest/clavicle_L/upperarm_L/forearm_L/wrist_L/ring_curl_L
+    m_Weight: 1
+  - m_Path: Character rig/root/hipsCtrl/hips/spine/chest/clavicle_L/upperarm_L/forearm_L/wrist_L/ring_L
+    m_Weight: 1
+  - m_Path: Character rig/root/hipsCtrl/hips/spine/chest/clavicle_L/upperarm_L/forearm_L/wrist_L/ring_L/ring_L.001
+    m_Weight: 1
+  - m_Path: Character rig/root/hipsCtrl/hips/spine/chest/clavicle_L/upperarm_L/forearm_L/wrist_L/ring_L/ring_L.001/ring_L.002
+    m_Weight: 1
+  - m_Path: Character rig/root/hipsCtrl/hips/spine/chest/clavicle_L/upperarm_L/forearm_L/wrist_L/thumb_curl_L
+    m_Weight: 1
+  - m_Path: Character rig/root/hipsCtrl/hips/spine/chest/clavicle_L/upperarm_L/forearm_L/wrist_L/thumb_L
+    m_Weight: 1
+  - m_Path: Character rig/root/hipsCtrl/hips/spine/chest/clavicle_L/upperarm_L/forearm_L/wrist_L/thumb_L/thumb_L.001
+    m_Weight: 1
+  - m_Path: Character rig/root/hipsCtrl/hips/spine/chest/clavicle_R
+    m_Weight: 1
+  - m_Path: Character rig/root/hipsCtrl/hips/spine/chest/clavicle_R/upperarm_R
+    m_Weight: 1
+  - m_Path: Character rig/root/hipsCtrl/hips/spine/chest/clavicle_R/upperarm_R/forearm_R
+    m_Weight: 1
+  - m_Path: Character rig/root/hipsCtrl/hips/spine/chest/clavicle_R/upperarm_R/forearm_R/wrist_R
+    m_Weight: 1
+  - m_Path: Character rig/root/hipsCtrl/hips/spine/chest/clavicle_R/upperarm_R/forearm_R/wrist_R/index_curl_R
+    m_Weight: 1
+  - m_Path: Character rig/root/hipsCtrl/hips/spine/chest/clavicle_R/upperarm_R/forearm_R/wrist_R/index_R
+    m_Weight: 1
+  - m_Path: Character rig/root/hipsCtrl/hips/spine/chest/clavicle_R/upperarm_R/forearm_R/wrist_R/index_R/index_R.001
+    m_Weight: 1
+  - m_Path: Character rig/root/hipsCtrl/hips/spine/chest/clavicle_R/upperarm_R/forearm_R/wrist_R/index_R/index_R.001/index_R.002
+    m_Weight: 1
+  - m_Path: Character rig/root/hipsCtrl/hips/spine/chest/clavicle_R/upperarm_R/forearm_R/wrist_R/middle_curl_R
+    m_Weight: 1
+  - m_Path: Character rig/root/hipsCtrl/hips/spine/chest/clavicle_R/upperarm_R/forearm_R/wrist_R/middle_R
+    m_Weight: 1
+  - m_Path: Character rig/root/hipsCtrl/hips/spine/chest/clavicle_R/upperarm_R/forearm_R/wrist_R/middle_R/middle_R.001
+    m_Weight: 1
+  - m_Path: Character rig/root/hipsCtrl/hips/spine/chest/clavicle_R/upperarm_R/forearm_R/wrist_R/middle_R/middle_R.001/middle_R.002
+    m_Weight: 1
+  - m_Path: Character rig/root/hipsCtrl/hips/spine/chest/clavicle_R/upperarm_R/forearm_R/wrist_R/ring_curl_R
+    m_Weight: 1
+  - m_Path: Character rig/root/hipsCtrl/hips/spine/chest/clavicle_R/upperarm_R/forearm_R/wrist_R/ring_R
+    m_Weight: 1
+  - m_Path: Character rig/root/hipsCtrl/hips/spine/chest/clavicle_R/upperarm_R/forearm_R/wrist_R/ring_R/ring_R.001
+    m_Weight: 1
+  - m_Path: Character rig/root/hipsCtrl/hips/spine/chest/clavicle_R/upperarm_R/forearm_R/wrist_R/ring_R/ring_R.001/ring_R.002
+    m_Weight: 1
+  - m_Path: Character rig/root/hipsCtrl/hips/spine/chest/clavicle_R/upperarm_R/forearm_R/wrist_R/thumb_curl_R
+    m_Weight: 1
+  - m_Path: Character rig/root/hipsCtrl/hips/spine/chest/clavicle_R/upperarm_R/forearm_R/wrist_R/thumb_R
+    m_Weight: 1
+  - m_Path: Character rig/root/hipsCtrl/hips/spine/chest/clavicle_R/upperarm_R/forearm_R/wrist_R/thumb_R/thumb_R.001
+    m_Weight: 1
+  - m_Path: Character rig/root/hipsCtrl/hips/spine/chest/neck
+    m_Weight: 1
+  - m_Path: Character rig/root/hipsCtrl/hips/spine/chest/neck/head
+    m_Weight: 1
+  - m_Path: Character rig/root/hipsCtrl/hips/thigh_L
+    m_Weight: 1
+  - m_Path: Character rig/root/hipsCtrl/hips/thigh_L/shin_L
+    m_Weight: 1
+  - m_Path: Character rig/root/hipsCtrl/hips/thigh_L/shin_L/foot_L
+    m_Weight: 1
+  - m_Path: Character rig/root/hipsCtrl/hips/thigh_L/shin_L/foot_L/toe_L
+    m_Weight: 1
+  - m_Path: Character rig/root/hipsCtrl/hips/thigh_R
+    m_Weight: 1
+  - m_Path: Character rig/root/hipsCtrl/hips/thigh_R/shin_R
+    m_Weight: 1
+  - m_Path: Character rig/root/hipsCtrl/hips/thigh_R/shin_R/foot_R
+    m_Weight: 1
+  - m_Path: Character rig/root/hipsCtrl/hips/thigh_R/shin_R/foot_R/toe_R
+    m_Weight: 1
+  - m_Path: Character_Mesh
+    m_Weight: 1
